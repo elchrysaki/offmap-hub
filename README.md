@@ -28,7 +28,7 @@
 [![Stars](https://img.shields.io/github/stars/elchrysaki/offmap-hub?style=for-the-badge&logo=github&logoColor=black&label=STARS&color=F4C542)](https://github.com/elchrysaki/offmap-hub/stargazers)
 [![🦄 Contributors](https://img.shields.io/github/contributors/elchrysaki/offmap-hub?style=for-the-badge&color=8B5CF6)](https://github.com/elchrysaki/offmap-hub/graphs/contributors)
 [![Verified](https://img.shields.io/badge/Verified-25-blueviolet?style=for-the-badge)](opportunities/README.md)
-[![Active](https://img.shields.io/badge/Active-18-orange?style=for-the-badge)](opportunities/README.md)
+[![Active](https://img.shields.io/badge/Active-17-orange?style=for-the-badge)](opportunities/README.md)
 
 
 <br>
@@ -331,7 +331,6 @@ Listings may be removed or archived when the information becomes outdated, the o
 
 | Status | Category | Opportunity | Focus | When & Where | Format | Funding / Prize | Eligibility | Apply | Deadline |
 |---|---|---|---|---|---|---|---|---|---|
-| 🔥 Closing soon | Conference | [PauseCon London 2026](opportunities/events/pausecon-london-2026.md) | Conference | London, United Kingdom | In Person | Not stated | See details | [Apply](https://luma.com/4be2eqz9?utm_source=ea-opps) | 21 August 2026 |
 | 🔥 Closing soon | Conference | [EAGxOxford 2026](opportunities/events/eagxoxford-2026.md) | Effective altruism; Impactful causes | 25–27 Sep 2026 / Oxford, United Kingdom | In Person | Not stated | See details | [Apply](https://effectivealtruism.my.site.com/EAGlobal/s/eagxoxfordapplication) | 13 September 2026 |
 
 <!-- CLOSING_SOON_END -->

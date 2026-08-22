@@ -7,7 +7,7 @@ organizer: PauseAI Events (Global)
 main_category: events
 category: conference
 edition: '2026'
-status: published
+status: archived
 summary: PauseCon London 2026 is an in-person conference organized by PauseAI Events (Global), focusing on AI-related topics and training. The event takes place in London, United Kingdom, and invites participants interested in the future of artificial intelligence. Application deadline is August 21, 2026. Specific eligibility and funding details are not confirmed.
 format: in-person
 location:
@@ -116,6 +116,11 @@ provenance:
   publication_pr_number: 44
   published_by: elchrysaki
   publishing_workflow: .github/workflows/rebuild-indexes.yml
+archival:
+  archived_at: '2026-08-22T02:28:52.259227+00:00'
+  reason: application-deadline-passed
+  application_deadline: '2026-08-21'
+  previous_status: published
 OFFMAP-METADATA-END -->
 
 # 🧭 PauseCon London 2026
