@@ -4,6 +4,7 @@ These opportunities are kept for reference after their application deadlines pas
 
 | Opportunity | Category | Deadline | Archived reason |
 |---|---|---|---|
+| [EAGxOxford 2026](<opportunities/archive/events/eagxoxford-2026.md>) | events | 13 September 2026 | Application deadline passed |
 | [PauseCon London 2026](<opportunities/archive/events/pausecon-london-2026.md>) | events | 21 August 2026 | Application deadline passed |
 | [EAGxSingapore 2026](<opportunities/archive/events/eagxsingapore-2026.md>) | events | 15 August 2026 | Application deadline passed |
 | [EA Summit: Buenos Aires](<opportunities/archive/events/ea-summit-buenos-aires.md>) | events | 15 August 2026 | Application deadline passed |

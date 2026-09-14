@@ -2,11 +2,11 @@
 
 This index is generated automatically from reviewed opportunity files. Edit the individual opportunity pages, not this index.
 
-**Published opportunities:** 17
+**Published opportunities:** 16
 
 ## Jump to a main category
 
-- [🎤 Events](#main-events) (12)
+- [🎤 Events](#main-events) (11)
 - [🧰 Internships](#main-internships) (1)
 - [🤝 Fellowships](#main-fellowships) (1)
 - [❤️ Volunteering](#main-volunteering) (1)
@@ -18,7 +18,6 @@ This index is generated automatically from reviewed opportunity files. Edit the 
 
 | Opportunity | Type | Organizer | Deadline | Format | Location | Funding | Eligibility | Application |
 |---|---|---|---|---|---|---|---|---|
-| [EAGxOxford 2026](<events/eagxoxford-2026.md>) | Conference | EAGxOxford | 13 September 2026 | In Person | In-person at Examination Schools, Oxford, United Kingdom | Not confirmed | See opportunity page | [Apply](<https://effectivealtruism.my.site.com/EAGlobal/s/eagxoxfordapplication>) |
 | [EA Summit: Warsaw 2026](<events/ea-summit-warsaw-2026.md>) | Conference | Effective Altruism Global | 25 September 2026 | In Person | In-person at POLIN Conference Centre, Warsaw, Poland | Not confirmed | See opportunity page | [Official page](<https://www.effectivealtruism.org/ea-global/events/ea-summit-warsaw-2026?utm_source=ea-opps>) |
 | [EA Global: New York City 2026](<events/ea-global-new-york-city-2026.md>) | Conference | Effective Altruism Global | 27 September 2026 (11:59pm ET) | In Person | Sheraton New York Times Square, New York, United States | Not confirmed | See opportunity page | [Apply](<https://www.effectivealtruism.org/ea-global/events/ea-global-new-york-city-2026?utm_source=ea-opps>) |
 | [EA Summit: Istanbul](<events/ea-summit-istanbul.md>) | Conference | Effective Altruism Turkey | Application deadline not yet announced | In Person | In-person at HAN Spaces Etiler, Istanbul, Turkey | Not confirmed | See opportunity page | [Official page](<https://www.effectivealtruism.org/ea-global/events/ea-summit-istanbul?utm_source=ea-opps>) |

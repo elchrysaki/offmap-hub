@@ -28,7 +28,7 @@
 [![Stars](https://img.shields.io/github/stars/elchrysaki/offmap-hub?style=for-the-badge&logo=github&logoColor=black&label=STARS&color=F4C542)](https://github.com/elchrysaki/offmap-hub/stargazers)
 [![🦄 Contributors](https://img.shields.io/github/contributors/elchrysaki/offmap-hub?style=for-the-badge&color=8B5CF6)](https://github.com/elchrysaki/offmap-hub/graphs/contributors)
 [![Verified](https://img.shields.io/badge/Verified-25-blueviolet?style=for-the-badge)](opportunities/README.md)
-[![Active](https://img.shields.io/badge/Active-17-orange?style=for-the-badge)](opportunities/README.md)
+[![Active](https://img.shields.io/badge/Active-16-orange?style=for-the-badge)](opportunities/README.md)
 
 
 <br>
@@ -331,7 +331,6 @@ Listings may be removed or archived when the information becomes outdated, the o
 
 | Status | Category | Opportunity | Focus | When & Where | Format | Funding / Prize | Eligibility | Apply | Deadline |
 |---|---|---|---|---|---|---|---|---|---|
-| 🔥 Closing soon | Conference | [EAGxOxford 2026](opportunities/events/eagxoxford-2026.md) | Effective altruism; Impactful causes | 25–27 Sep 2026 / Oxford, United Kingdom | In Person | Not stated | See details | [Apply](https://effectivealtruism.my.site.com/EAGlobal/s/eagxoxfordapplication) | 13 September 2026 |
 | 🔥 Closing soon | Conference | [EA Summit: Warsaw 2026](opportunities/events/ea-summit-warsaw-2026.md) | Effective altruism; Global challenges | 3 Oct 2026 / Warsaw, Poland | In Person | Not stated | See details | [Apply](https://www.effectivealtruism.org/ea-global/events/ea-summit-warsaw-2026?utm_source=ea-opps) | 25 September 2026 |
 | 🔥 Closing soon | Conference | [EA Global: New York City 2026](opportunities/events/ea-global-new-york-city-2026.md) | Effective altruism; Global challenges | 16–18 Oct 2026 / New York, United States | In Person | Not stated | See details | [Apply](https://www.effectivealtruism.org/ea-global/events/ea-global-new-york-city-2026?utm_source=ea-opps) | 27 September 2026 (11:59pm ET) |
 
