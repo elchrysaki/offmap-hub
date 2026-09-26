@@ -7,7 +7,7 @@ organizer: Effective Altruism Global
 main_category: events
 category: conference
 edition: '2026'
-status: published
+status: archived
 summary: 'EA Summit: Warsaw 2026 is a one-day in-person conference focused on effective altruism and global challenges. Participants will engage in discussions, attend sessions, and network with peers interested in evidence-based reasoning and impactful careers. The event is hosted in Warsaw, Poland, and welcomes those interested in effective altruism.'
 format: in-person
 location:
@@ -137,6 +137,11 @@ provenance:
   publication_pr_number: 48
   published_by: elchrysaki
   publishing_workflow: .github/workflows/rebuild-indexes.yml
+archival:
+  archived_at: '2026-09-26T06:10:03.476932+00:00'
+  reason: application-deadline-passed
+  application_deadline: '2026-09-25'
+  previous_status: published
 OFFMAP-METADATA-END -->
 
 # 🧭 EA Summit: Warsaw 2026
