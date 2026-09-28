@@ -2,11 +2,11 @@
 
 This index is generated automatically from reviewed opportunity files. Edit the individual opportunity pages, not this index.
 
-**Published opportunities:** 15
+**Published opportunities:** 14
 
 ## Jump to a main category
 
-- [🎤 Events](#main-events) (10)
+- [🎤 Events](#main-events) (9)
 - [🧰 Internships](#main-internships) (1)
 - [🤝 Fellowships](#main-fellowships) (1)
 - [❤️ Volunteering](#main-volunteering) (1)
@@ -18,7 +18,6 @@ This index is generated automatically from reviewed opportunity files. Edit the 
 
 | Opportunity | Type | Organizer | Deadline | Format | Location | Funding | Eligibility | Application |
 |---|---|---|---|---|---|---|---|---|
-| [EA Global: New York City 2026](<events/ea-global-new-york-city-2026.md>) | Conference | Effective Altruism Global | 27 September 2026 (11:59pm ET) | In Person | Sheraton New York Times Square, New York, United States | Not confirmed | See opportunity page | [Apply](<https://www.effectivealtruism.org/ea-global/events/ea-global-new-york-city-2026?utm_source=ea-opps>) |
 | [EA Summit: Istanbul](<events/ea-summit-istanbul.md>) | Conference | Effective Altruism Turkey | Application deadline not yet announced | In Person | In-person at HAN Spaces Etiler, Istanbul, Turkey | Not confirmed | See opportunity page | [Official page](<https://www.effectivealtruism.org/ea-global/events/ea-summit-istanbul?utm_source=ea-opps>) |
 | [EA Summit: Wellington](<events/ea-summit-wellington.md>) | Conference | Effective Altruism (EA Global) | unknown | In Person | Tiakiwai Conference Centre, Wellington, New Zealand | Not confirmed | See opportunity page | [Official page](<https://www.effectivealtruism.org/ea-global/events/ea-summit-wellington?utm_source=ea-opps>) |
 | [EAGxAustralasia 2026](<events/eagxaustralasia-2026.md>) | Conference | EAGxAustralasia | Applications will open soon | In Person | Melbourne, Australia (in-person) | Not confirmed | See opportunity page | [Official page](<https://www.effectivealtruism.org/ea-global/events/eagxaustralasia-2026?utm_source=ea-opps>) |

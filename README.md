@@ -28,7 +28,7 @@
 [![Stars](https://img.shields.io/github/stars/elchrysaki/offmap-hub?style=for-the-badge&logo=github&logoColor=black&label=STARS&color=F4C542)](https://github.com/elchrysaki/offmap-hub/stargazers)
 [![🦄 Contributors](https://img.shields.io/github/contributors/elchrysaki/offmap-hub?style=for-the-badge&color=8B5CF6)](https://github.com/elchrysaki/offmap-hub/graphs/contributors)
 [![Verified](https://img.shields.io/badge/Verified-25-blueviolet?style=for-the-badge)](opportunities/README.md)
-[![Active](https://img.shields.io/badge/Active-15-orange?style=for-the-badge)](opportunities/README.md)
+[![Active](https://img.shields.io/badge/Active-14-orange?style=for-the-badge)](opportunities/README.md)
 
 
 <br>
@@ -331,7 +331,7 @@ Listings may be removed or archived when the information becomes outdated, the o
 
 | Status | Category | Opportunity | Focus | When & Where | Format | Funding / Prize | Eligibility | Apply | Deadline |
 |---|---|---|---|---|---|---|---|---|---|
-| 🔥 Closing soon | Conference | [EA Global: New York City 2026](opportunities/events/ea-global-new-york-city-2026.md) | Effective altruism; Global challenges | 16–18 Oct 2026 / New York, United States | In Person | Not stated | See details | [Apply](https://www.effectivealtruism.org/ea-global/events/ea-global-new-york-city-2026?utm_source=ea-opps) | 27 September 2026 (11:59pm ET) |
+| _No published opportunities are closing within the next 30 days._ | — | — | — | — | — | — | — | [Add a discovery](https://github.com/elchrysaki/offmap-hub/issues/new?template=submit-opportunity.yml) | — |
 
 <!-- CLOSING_SOON_END -->
 

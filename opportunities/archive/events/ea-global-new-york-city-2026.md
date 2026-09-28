@@ -7,7 +7,7 @@ organizer: Effective Altruism Global
 main_category: events
 category: conference
 edition: '2026'
-status: published
+status: archived
 summary: 'EA Global: New York City 2026 is an in-person conference bringing together individuals interested in effective altruism. Attendees will engage with new research, share ideas, and connect with a global network dedicated to making a positive impact. The event features talks, networking, and collaborative sessions focused on global challenges and altruistic action.'
 format: in-person
 location:
@@ -141,6 +141,11 @@ provenance:
   publication_pr_number: 74
   published_by: elchrysaki
   publishing_workflow: .github/workflows/rebuild-indexes.yml
+archival:
+  archived_at: '2026-09-28T06:54:23.070485+00:00'
+  reason: application-deadline-passed
+  application_deadline: '2026-09-27'
+  previous_status: published
 OFFMAP-METADATA-END -->
 
 # 🧭 EA Global: New York City 2026
